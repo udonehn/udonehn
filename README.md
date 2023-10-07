@@ -1,6 +1,4 @@
 ## 안녕하세요. **남동우**입니다.
-<hr>
-
 ### 🌱 I’m currently learning ...
 #### Back-end
 * <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=Java&logoColor=black"/> 
