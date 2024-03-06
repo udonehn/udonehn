@@ -10,6 +10,18 @@
 #### Algorithm (PS) 
 * <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 * [Repository](https://github.com/udonehn/Algorithm)
-<hr>
+
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=udonehn)](https://solved.ac/udonehn/)
+
+<hr>
+
+### 자격증
+* 리눅스 마스터 2급
+* 네트워크 관리사 2급
+* PCCP Lv.4
+
+<hr>
+
+### Contact
+udonehn@gmail.com
